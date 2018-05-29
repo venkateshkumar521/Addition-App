@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Arithmetic</string>
+    <string name="enter_first_number1" />
+    <string name="enter_second_number1" />
+    <string name="add" />
+    <string name="result">Result:</string>
+    <string name="enter_first_number">Enter First Number</string>
+    <string name="add1">ADD</string>
+    <string name="enter_second_number">Enter Second Number</string>
+</resources>
